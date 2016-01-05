@@ -1,0 +1,4 @@
+Before insert: {/no/such,1}
+./keyvalue: /no/such: could not open for reading
+Before insert: {no//file/either,2}
+./keyvalue: no//file/either: could not open for reading
