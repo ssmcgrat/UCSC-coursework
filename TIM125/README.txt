@@ -1,0 +1,14 @@
+Technology and Information Management: Supply Chain Management
+
+Individual Work
+
+This TIM course in supply chain management was an extension of the previous course in product design and development. During the course I learned about managing the four key drivers of any supply chain: Inventory, Facilities, Transportation, and Information. My working knowledge of this material is presented in both the midterm and final examinations directly below. Each of these follows the Structured Problem Solving method, allowing anyone to clearly understand each problem definition, my strategy for solving each problem, and how I went about executing an accurate solution to each problem. As in the previous course on product design and development, each of these examinations were individual, take home assignments meant to be cummulative and take several days to complete.
+
+
+Team Project
+
+A key component of this course was our quarter long team project in which we had to design the supply chain for our product developed in the previous class. The most interesting aspect of this work was creating our supply chain management software in Excel using Microsoft Visual Basic. This system was designed simply for use within our team, and is therefore not quite robust enough to be offered as a simple management solution for another party. However, the Demand Forecasting module which was my main contribution to the system--with some early help by my team partner David Antisdel--works very well and is arguably the most valuable tool within the program. It offers five different methods of demand forecasting, and allows the user to change all appropriate variables and reference demand data for input from Sheet1. Developing this module was my favorite part of the course; it was a great learning experience not only learning how to best forecast data, but also learning how to efficiently use Excel Macros and program in VisualBasic. This project greatly improved my Excel skills, taking me from making simple spreadsheets to creating software that transforms raw data into valuable information.
+
+My team's Excel module is included below, along with a brief user's manual which I wrote for my team members and for our TA during grading. Please check out both and give my Demand Forecasting module a test run!
+
+Finally, below is a pdf of our team's final report which details all the work we acheived during the quarter and includes each individual's roles and responsibilities. This project--and the one which preceded it in TIM 105--taught me (taught us) how to transform a group of individuals into a "real" team capable of high productivity and acheiving great results. My success in these two classes heavily depended on the work of all my group members, and I am thankful to have been able to work with a team of intelligent, hard working students in a project which spanned two-thirds of our academic year.
