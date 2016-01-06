@@ -1,0 +1,76 @@
+Course info: Winter quarter 2014
+Course info: CMPS-012B
+Course info: Introduction to Data Structures
+Date & Time: 2014-03-21 Fri 17:55:49 PDT
+========================================================================
+
+**** IDENTIFICATION DATA ****
+
+Name: Sean McGrath (ssmcgrat@ucsc.edu)
+Grading option: GRD
+========================================================================
+
+**** ITEMIZED SCORES ****
+
+Following is a table of grades recorded and computed:
+it:     Item code indicating test or assignment, e.g., a1, t2, etc.
+pts:    Number of points you earned on that item.
+max:    Maxmimum number of points possible for that item.
+scor:   score = pts/max.
+wgt:    Weight of that particular item toward the final grade.
+val:    Fraction of points contributed to final grade.
+rk/nr:  Rank within the class for that item / number submitted.
+
+it=pts/max=scor; * wgt= val; rk/ nr; LG  evaluation
+a1= 50/ 60=0.83; *0.08=0.07; 82/145; A-  nearly excellent (A-)
+t1= 30/ 30=1.00; *0.15=0.15;  5/157; A+! most excellent (A+!)
+a2= 55/ 60=0.92; *0.08=0.07; 29/145; A+  most excellent (A+)
+a3= 60/ 60=1.00; *0.08=0.08;  1/139; A+! most excellent (A+!)
+t2= 24/ 30=0.80; *0.15=0.12; 46/148; A-  nearly excellent (A-)
+a4= 43/ 60=0.72; *0.08=0.06; 60/140; B,  well done (B)
+t3= 41/ 45=0.91; *0.30=0.27; 13/145; A+  most excellent (A+)
+a5= 57/ 60=0.95; *0.08=0.08; 24/140; A+! most excellent (A+!)
+========================================================================
+
+**** SUMMARY ****
+
+Following is the SUMMARY information which is really what you are
+primarily looking for here, including your score as a percentage,
+your rank within the class, a letter grade, and the evaluation.
+
+category            =total/wtsum=score; rk/ nr; LG  evaluation
+overall work        = 0.90/ 1.00= 0.90; 12/160; A+  most excellent (A+)
+programming assign  = 0.35/ 0.40= 0.88; 29/154; A,  excellent (A)
+tests and exams     = 0.54/ 0.60= 0.91; 13/158; A+  most excellent (A+)
+
+Final grade: A+
+========================================================================
+
+**** UNOFFICIAL DRAFT OF NARRATIVE EVALUATION ****
+Draft|
+Draft| Sean McGrath.  CMPS-012B, Introduction to Data Structures.
+Draft| Winter quarter 2014.  The overall work was most excellent
+Draft| (A+), and ranked in the top ten percent of the class of one
+Draft| hundred and sixty students.  The programming assignments
+Draft| were excellent (A), and ranked in the top fifth of the class.
+Draft| The tests and exams were most excellent (A+), and ranked in
+Draft| the top ten percent of the class.
+Draft|
+Draft| More specifically, the individual components which constituted
+Draft| the grade were valued as follows: Test-1 was most excellent
+Draft| (A+!), test-2 was nearly excellent (A-), and the final exam
+Draft| was most excellent (A+).
+Draft|
+Draft| There were five programming assignments: Program-1, in Java,
+Draft| a formatting utility similar to fmt, introducing command line
+Draft| arguments, java.util.Iterator, and java.util.LinkedList, was
+Draft| nearly excellent (A-).  Program-2, in Java, a text formatting
+Draft| utility like nroff, introducing separate compilation, the
+Draft| queue data structure, and reading files, was most excellent
+Draft| (A+).  Program-3, in Java, a cross reference utility using a
+Draft| binary search tree, was most excellent (A+!).  Program-4, in
+Draft| C, a multiprecision calculator like dc, with the +, -, and *
+Draft| operators, was well done (B).  Program-5, in C, a spelling
+Draft| checker using a hash table, was most excellent (A+!).
+Draft|
+========================================================================
