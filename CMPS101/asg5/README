@@ -1,0 +1,14 @@
+README
+Makefile
+List.h
+List.c
+Graph.h
+Graph.c
+GraphTest.c
+FindComponents.c
+
+
+To compile GraphTest.c run %make GraphTest
+
+My Graph.c is an edit to the Graph.c created for Programming Assignment 4. Should there be any functionality in Graph.c which is unused by FindComponents.c that is why. 
+
