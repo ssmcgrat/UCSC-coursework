@@ -1,0 +1,75 @@
+Course info: Summer quarter 2015
+Course info: CMPS-109
+Course info: Advanced Programming
+Date & Time: 2015-08-17 Mon 13:03:18 PDT
+========================================================================
+
+**** IDENTIFICATION DATA ****
+
+Name: Sean McGrath (ssmcgrat@ucsc.edu)
+Grading option: GRD
+========================================================================
+
+**** ITEMIZED SCORES ****
+
+Following is a table of grades recorded and computed:
+it:     Item code indicating test or assignment, e.g., a1, t2, etc.
+pts:    Number of points you earned on that item.
+max:    Maxmimum number of points possible for that item.
+scor:   score = pts/max.
+wgt:    Weight of that particular item toward the final grade.
+val:    Fraction of points contributed to final grade.
+rk/nr:  Rank within the class for that item / number submitted.
+
+it=pts/max=scor; * wgt= val; rk/ nr; LG  evaluation
+a1= 57/ 57=1.00; *0.10=0.10;  2/ 37; A++ most excellent (A++)
+t1= 35/ 44=0.80; *0.25=0.20; 13/ 39; B+  very well done (B+)
+a2= 57/ 58=0.98; *0.10=0.10;  4/ 36; A++ most excellent (A++)
+a3= 54/ 60=0.90; *0.10=0.09; 11/ 35; A+  most excellent (A+)
+a4= 58/ 60=0.97; *0.10=0.10;  9/ 33; A++ most excellent (A++)
+t3= 31/ 45=0.69; *0.25=0.17; 19/ 34; B-  somewhat well done (B-)
+a5= 60/ 60=1.00; *0.10=0.10;  1/ 33; A++ most excellent (A++)
+========================================================================
+
+**** SUMMARY ****
+
+Following is the SUMMARY information which is really what you are
+primarily looking for here, including your score as a percentage,
+your rank within the class, a letter grade, and the evaluation.
+
+category            =total/wtsum=score; rk/ nr; LG  evaluation
+overall work        = 0.86/ 1.00= 0.86;  7/ 40; A,  excellent (A)
+programming assign  = 0.48/ 0.50= 0.97;  2/ 39; A++ most excellent (A++)
+tests and exams     = 0.37/ 0.50= 0.74; 18/ 39; B,  well done (B)
+
+Final grade: A
+========================================================================
+
+**** UNOFFICIAL DRAFT OF NARRATIVE EVALUATION ****
+Draft|
+Draft| Sean McGrath.  CMPS-109, Advanced Programming.  Summer quarter
+Draft| 2015.  The overall work was excellent (A), and ranked in the
+Draft| top sixth of the class of forty-five students.  The programming
+Draft| assignments were most excellent (A++), scoring within 3 percent
+Draft| of the best in the class.  The tests and exams were well done
+Draft| (B).
+Draft|
+Draft| More specifically, the individual components which constituted
+Draft| the grade were valued as follows: The midterm exam was very
+Draft| well done (B+), and the final exam was somewhat well done (B-).
+Draft|
+Draft| There were five programming assignments, all written in
+Draft| C++11: Program-1, a simulated shell, introducing iostream,
+Draft| and function pointers, was most excellent (A++).  Program-2,
+Draft| a calculator in the style of dc(1),introducing memory
+Draft| management, avoidance of leak, and operator overloading, was
+Draft| most excellent (A++).  Program-3, a key and value matching
+Draft| problem, introducing the idea of writing template classes
+Draft| and functions, was most excellent (A+).  Program-4, a drawing
+Draft| program using inheritance and virtual and abstract functions,
+Draft| using OpenGL to display and move shapes in an X11 window, was
+Draft| most excellent (A++).  Program-5, a daemon/server/client file
+Draft| transfer program like sftp, introducing internet communications
+Draft| with sockets, was most excellent (A++).
+Draft|
+========================================================================

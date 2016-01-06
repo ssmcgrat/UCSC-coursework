@@ -1,0 +1,76 @@
+Course info: Fall quarter 2015
+Course info: CMPS-112
+Course info: Comparative Programming Languages
+Date & Time: 2015-12-10 Thu 17:54:18 PST
+========================================================================
+
+**** IDENTIFICATION DATA ****
+
+Name: Sean McGrath (ssmcgrat@ucsc.edu)
+Grading option: GRD
+========================================================================
+
+**** ITEMIZED SCORES ****
+
+Following is a table of grades recorded and computed:
+it:     Item code indicating test or assignment, e.g., a1, t2, etc.
+pts:    Number of points you earned on that item.
+max:    Maxmimum number of points possible for that item.
+scor:   score = pts/max.
+wgt:    Weight of that particular item toward the final grade.
+val:    Fraction of points contributed to final grade.
+rk/nr:  Rank within the class for that item / number submitted.
+
+it=pts/max=scor; * wgt= val; rk/ nr; LG  evaluation
+a1= 54/ 59=0.92; *0.12=0.11; 18/ 62; A+  most excellent (A+)
+t1= 26/ 28=0.93; *0.13=0.12; 13/ 63; A+  most excellent (A+)
+a2= 60/ 60=1.00; *0.12=0.12;  1/ 62; A++ most excellent (A++)
+t2= 28/ 28=1.00; *0.13=0.13;  3/ 59; A++ most excellent (A++)
+a3= 34/ 60=0.57; *0.12=0.07; 35/ 59; C,  adequate (C)
+a4= 58/ 59=0.98; *0.12=0.12;  6/ 57; A++ most excellent (A++)
+t3= 35/ 42=0.83; *0.26=0.22; 24/ 58; A-  nearly excellent (A-)
+========================================================================
+
+**** SUMMARY ****
+
+Following is the SUMMARY information which is really what you are
+primarily looking for here, including your score as a percentage,
+your rank within the class, a letter grade, and the evaluation.
+
+category            =total/wtsum=score; rk/ nr; LG  evaluation
+overall work        = 0.88/ 1.00= 0.88;  6/ 68; A,  excellent (A)
+programming assign  = 0.42/ 0.48= 0.87; 19/ 68; A,  excellent (A)
+tests and exams     = 0.47/ 0.52= 0.90;  9/ 63; A+  most excellent (A+)
+
+Final grade: A
+========================================================================
+
+**** UNOFFICIAL DRAFT OF NARRATIVE EVALUATION ****
+Draft|
+Draft| Sean McGrath.  CMPS-112, Comparative Programming Languages.
+Draft| Fall quarter 2015.  The overall work was excellent (A), and
+Draft| ranked in the top ten percent of the class of sixty-eight
+Draft| students.  The programming assignments were excellent (A).
+Draft| The tests and exams were most excellent (A+), and ranked in
+Draft| the top sixth of the class.
+Draft|
+Draft| More specifically, the individual components which constituted
+Draft| the grade were valued as follows: The first test was most
+Draft| excellent (A+), the second test was most excellent (A++),
+Draft| and the final exam was nearly excellent (A-).  There were
+Draft| five programming assignments, each in a different language
+Draft| and representing a different programming paradigm:
+Draft|
+Draft| Program-1, a small subset of a Basic interpreter, written in
+Draft| Scheme, illustrating functional programming in a dynamically
+Draft| typed language with lists, was most excellent (A+).  Program-2,
+Draft| a multiprecision integer calculator in the style of dc(1)
+Draft| written in OCaml, illustrating functional programming in
+Draft| a statically typed language with type inference, was most
+Draft| excellent (A++).  Program-3, a file compression program
+Draft| using Huffman coding, written in Smalltalk, illustrating pure
+Draft| object-oriented programming, was adequate (C).  Program-4,
+Draft| an implementation of a part of the make(1) utility, written in
+Draft| Perl, illustrating rapid scripting, was most excellent (A++).
+Draft|
+========================================================================
