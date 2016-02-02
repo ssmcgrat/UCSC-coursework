@@ -1,0 +1,15 @@
+Sean McGrath
+CMPS 180 Winter 2016
+Lab Assignment 1
+
+Database Schema for Smith Video
+
+Movies(movie_id, name, description, rating, year, length) key = movie_id
+Customers(cust_id, firstName, lastName, email, address) key = cust_id
+Addresses(adr_id, houseNumber, street, city, state, postalCode, phone) key = adr_id
+
+Database Schema for Smith Books
+
+Books(book_id, title, author, edition, publisher) key = book_id
+Authors(author_id, firstName, lastName) key = author_id
+Customers(cust_id, firstName, lastName, phone) key = cust_id
